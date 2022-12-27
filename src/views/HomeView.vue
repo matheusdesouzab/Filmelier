@@ -1,17 +1,16 @@
 <template>
-  <div class="home">
-    
-  </div>
+  <NavbarMainLayout></NavbarMainLayout>
+    <router-view name="navbar"></router-view>
 </template>
 
 <script>
-// @ is an alias to /src
 
+import NavbarMainLayout from '@/layouts/NavbarMainLayout.vue';
 
 export default {
   name: 'HomeView',
   components: {
-   
+    NavbarMainLayout
   }
 }
 </script>

@@ -1,11 +1,15 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import NavbarMainLayout from '../layouts/NavbarMainLayout'
 
 const routes = [
   {
     path: '/',
     name: 'home',
-    component: HomeView
+    components: {
+      default: HomeView,
+      navbar: NavbarMainLayout
+    }
   }
 ]
 

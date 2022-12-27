@@ -1,0 +1,354 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "nome": "Elyse – A Coragem Vem do Coração",
+            "fotoCapa": "https://i.imgur.com/inMZds2.jpg",
+            "sinopse": "Durante um surto psicótico repentino, Elyse comete o homicídio culposo de seu filho pequeno e da babá. Em estado catatônico, ela perde a noção do que é real, memória ou alucinação, e acaba internada em um hospital psiquiátrico, onde é tratada pelo doutor Lewis. Assombrada pelas lembranças do ato trágico que cometeu, Elyse se apoia na ajuda do médico e de seu atencioso enfermeiro para começar a superar o trauma.",
+            "anoLancamento": 2020,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "Stella Hopkins",
+            "tamanho": 800
+        },
+        {
+            "id": 2,
+            "nome": "Viagem ao Mundo dos Sonhos",
+            "fotoCapa": "https://i.imgur.com/EOKZ2vc.jpg",
+            "sinopse": "Os sonhos visionários de três meninos curiosos e aventureiros transformam-se em uma excitante realidade em Viagem ao Mundo dos Sonhos, a fantasia de ação do aclamado diretor Joe Dante (Gremlins), que combina humor inteligente, afeto e fantasia, com inesperadas reviravoltas. Em seu improvisado laboratório, os garotos usam sua genialidade e também uma surpreendente descoberta para construir sua própria nave espacial e lançarem-se em uma fantástica viagem interplanetária. Uma galáxia de aventuras para toda a família, estrelando os jovens River Phoenix (Conta Comigo, Quebra de Sigilo) e Ethan Hawke (Dia de Treinamento, Caindo na Real).",
+            "anoLancamento": 1985,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": " Joe Dante",
+            "tamanho": 1170
+        },
+        {
+            "id": 3,
+            "nome": "Efeito Borboleta 2",
+            "fotoCapa": "https://i.imgur.com/NoVM2OQ.jpg",
+            "sinopse": "Nick Larson (Eric Lively) não poderia em melhor momento. Sua empresa está crescebdo e seu namoro com Julie (Erica Durance, da série Smallville) parece perfeito. Mas tudo muda quando uma cadeia de eventos resulta na morte de três pessoas em um trágico acidente – incluindo sua jovem namorada. Um ano depois, Nick ainda tenta reunir os pedaços de sua vida, até que começa a ter surtos nos quais parece estar viajando no tempo. Agora, ele tem a oportunidade de mudar o passado. Mas a missão é difícil, jpa que qualquer detalhe modificado pode significar uma reviravolta no futuro. Será que ele está preparado para lidar com suas escolhas?",
+            "anoLancamento": 2006,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "John R. Leonetti",
+            "tamanho": 800
+        },
+        {
+            "id": 4,
+            "nome": "Assassinos de Aluguel",
+            "fotoCapa": "https://i.imgur.com/duQgiel.jpg",
+            "sinopse": "Inspirado na história real de um escândalo que envolveu presidiários sendo liberados por um dia para trabalharem como assassinos de aluguel para políticos corruptos. As histórias de quatro homens que tentam sustentar suas família se conectam através da prisão: dois presidiários que são contratados como assassinos, e dois agentes da polícia que investigam os assassinatos. Enquanto eles se enfrentam, são seus entes queridos que correm o risco de sofrerem o dano colateral.",
+            "anoLancamento": 2013,
+            "legenda": "Português",
+            "idioma": "Português/Filipino",
+            "Direção": "Erik Matti",
+            "tamanho": 1170
+        },
+        {
+            "id": 5,
+            "nome": "Matilda: O Musical",
+            "fotoCapa": "https://i.imgur.com/Ii1cBhd.jpg",
+            "sinopse": "A adaptação do premiado musical de Tony e Olivier, Matilda, uma garota extraordinária que, armada com uma mente afiada e imaginação vívida, ousa tomar uma posição para mudar sua história com resultados milagrosos.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "Matthew Warchus",
+            "tamanho": 1180
+        },
+        {
+            "id": 6,
+            "nome": "Mundo Estranho",
+            "fotoCapa": "https://i.imgur.com/Ii1cBhd.jpg",
+            "sinopse": "A família Clade não é muito igual as outras. Eles são exploradores que desbravam novas terras e estão em uma missão para explorar um mundo estranho e não conhecido. Porém, as diferenças entre os membros da família podem por sua nova missão em risco.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "Don Hall",
+            "tamanho": 900
+        },
+        {
+            "id": 7,
+            "nome": "Um Encontro na Véspera de Natal",
+            "fotoCapa": "https://i.imgur.com/2PcO4Nz.jpg",
+            "sinopse": "Depois que sua brilhante ideia para um novo aplicativo de namoro é roubada por um rival no local de trabalho, a sorte de Chelsea muda para melhor após um desejo de Natal a uma estrela cadente.",
+            "anoLancamento": 2019,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "Jake Helgren",
+            "tamanho": 800
+        },
+        {
+            "id": 8,
+            "nome": "Boogey, um Monstro Adorável",
+            "fotoCapa": "https://i.imgur.com/BDNpuB9.jpg",
+            "sinopse": "King não consegue acreditar no fato de que sua amada filha, a princesa Bárbara, já está crescida. Ele ainda tenta cuidar da princesa, mas Bárbara, de 16 anos, tem um acesso de raiva em sua festa de aniversário. Enquanto todos estão distraídos, o trono é tomado por um sorrateiro Weasel. No entanto, insatisfeito por ser o único governante do Reino, ele também planeja se casar com Bárbara. A princesa Bárbara foge do palácio e se encontra no meio da floresta. Ela esbarra em Boogey the Outlaw e seu amigo, o Wicked Rabbit. A interferência de Bárbara causa estragos na vida normal de solteiro dos dois amigos. Bárbara se intromete em tudo, organiza seu próprio conjunto de regras e continua a irritá-los com suas suposições sobre o príncipe Eduardo. Ela imagina como o príncipe Eduardo derrota o impostor, reintegra o rei, e pede Bárbara em casamento. Exatamente como os livros dizem. Para se livrar de Bárbara, Boogey decide ir o mais longe para encontrar o Príncipe Edward, parar o Weasel e restaurar a ordem no Reino.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "Viktor Glukhushin",
+            "tamanho": 800
+        },
+        {
+            "id": 9,
+            "nome": "Antes Só do que Mal Acompanhado",
+            "fotoCapa": "https://i.imgur.com/TKhaRM3.jpg",
+            "sinopse": "Neal Page (Steve Martin) é um publicitário que decide voltar de avião de Nova York para Chiacago, para passar o Dia de Ação de Graças com sua família. Porém, ao chegar no aeroporto, descobre que o vôo está atrasado e, posteriormente, que sua passagem de primeira classe foi transferida por engano para a classe turística. Quando a viagem enfim começa ele ainda tem que aturar ao seu lado Del Griffith (John Candy), um vendedor de alças para cortinas de chuveiro chato e inconveniente. Para completar o azar de Neal, uma tempestade de neve impede que o avião aterrisse em Chicago, que termina por pousar em uma pequena cidade do Kansas. Sem saber se haverá um novo vôo capaz de levá-lo a tempo para Chicago, Neal decide ir à cidade através de outro meio de transporte. Griffith se oferece para acompanhá-lo e, juntos, iniciam uma maratona repleta de problemas.",
+            "anoLancamento": 1987,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "John Hughes",
+            "tamanho": 800
+        },
+        {
+            "id": 10,
+            "nome": "A Queda – Fall",
+            "fotoCapa": "https://i.imgur.com/1riXy3h.jpg",
+            "sinopse": "Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "Scott Mann",
+            "tamanho": 900
+        },
+        {
+            "id": 11,
+            "nome": "Nove Dias",
+            "fotoCapa": "https://i.imgur.com/z9p6eQa.jpg",
+            "sinopse": "Will passa os dias em um posto avançado assistindo ao vivo pela TV o ponto de vista das pessoas. Quando alguém morre, é aberta uma nova vaga para uma vida na Terra. Logo, surgem vários candidatos, almas não nascidas que se submetem a testes para determinarem suas habilidades, e que enfrentam o esquecimento quando não são consideradas aptas para a vaga. Mas logo Will passa a enfrentar o seu próprio desafio existencial quando Emma, uma candidata de espírito livre, diferente de todos os outros, o faz lidar com seu turbulento passado.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Português/Inglês",
+            "Direção": "Edson Oda",
+            "tamanho": 1170
+        },
+        {
+            "id": 12,
+            "nome": "Viagem Entre Estranhos",
+            "fotoCapa": "https://i.imgur.com/w7zSpMS.jpg",
+            "sinopse": "Quatro viajantes se encontram no centro da cidade de Madri por meio de um aplicativo de compartilhamento de viagens. Quatro indivíduos que nunca imaginaram a jornada que estão prestes a embarcar.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Português/Espanhol",
+            "Direção": "Martín Cuervo",
+            "tamanho": 800
+        },
+        {
+            "id": 13,
+            "nome": "Bardo, Falsa Crônica de Algumas Verdades",
+            "fotoCapa": "https://i.imgur.com/qUAwoUU.jpg",
+            "sinopse": "A jornada íntima de Silverio, um mexicano que vive em Los Angeles e trabalha como jornalista e diretor de documentários. Depois de ganhar um importante prêmio internacional, Silverio sente que precisa voltar para seu país de origem ? mas não se dá conta de que essa viagem o levará aos limites de uma crise existencial. Com suas memórias e medos atravessando toda a sua rotina, sua vida será tomada por um sentimento de desordem e arrebatamento.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Espanhol",
+            "Direção": "Alejandro G. Iñárritu",
+            "tamanho": 1170
+        },
+        {
+            "id": 14,
+            "nome": "Avatar: O Caminho da Água",
+            "fotoCapa": "https://i.imgur.com/rzhePQw.jpg",
+            "sinopse": "Uma década após os eventos do primeiro filme, Avatar 2: O Caminho da Água acompanha a história da família Sully: Jake (Sam Worthington), Neytiri (Zoe Saldana) e seus filhos. O longa também irá apresentar os perigos que os esperam nesta nova aventura, os esforços que fazem para se manterem seguros, as batalhas que enfrentam para sobreviver e, claro, as tragédias que sofrem.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Inglês",
+            "Direção": "James Cameron",
+            "tamanho": 1460
+        },
+        {
+            "id": 15,
+            "nome": "Sem Controle",
+            "fotoCapa": "https://i.imgur.com/27sQ9GH.jpg",
+            "sinopse": " Em uma Hong Kong futurista, o assassino Jack cruza o caminho de uma cantora de boate, April. À medida que Jack se sente cada vez mais atraído por April, seu corpo se deteriora misteriosamente. Jack rastreia o cientista recluso doutor Bergman, em busca de respostas. O Doutor Bergman desvenda o longo segredo enterrado de Jack e é forçado a confrontar seu próprio passado obscuro. Enquanto a rede que os conecta se aperta, Jack e April lutam pelo amor enquanto enfrentam seu passado em um mundo sem amor que está no limite da imortalidade e da extinção.",
+            "anoLancamento": 2022,
+            "legenda": "Português",
+            "idioma": "Inglês",
+            "Direção": "Ivan Sen",
+            "tamanho": 900
+        }
+    ],
+    "generos": [
+        {
+            "id": 1,
+            "genero": "Drama"
+        },
+        {
+            "id": 2,
+            "genero": "Comédia"
+        },
+        {
+            "id": 3,
+            "genero": "Aventura"
+        },
+        {
+            "id": 4,
+            "genero": "Romance"
+        },
+        {
+            "id": 5,
+            "genero": "Ficção"
+        },
+        {
+            "id": 6,
+            "genero": "Suspense"
+        },
+        {
+            "id": 7,
+            "genero": "Policial"
+        },
+        {
+            "id": 8,
+            "genero": "Ação"
+        },
+        {
+            "id": 9,
+            "genero": "Animação"
+        }
+    ],
+    "filmeGeneros": [
+        {
+            "id": 1,
+            "filmeId": 1,
+            "generoId": 1
+        },
+        {
+            "id": 2,
+            "filmeId": 2,
+            "generoId": 2
+        },
+        {
+            "id": 3,
+            "filmeId": 2,
+            "generoId": 3
+        },
+        {
+            "id": 4,
+            "filmeId": 2,
+            "generoId": 4
+        },
+        {
+            "id": 5,
+            "filmeId": 2,
+            "generoId": 5
+        },
+        {
+            "id": 6,
+            "filmeId": 3,
+            "generoId": 6
+        },
+        {
+            "id": 7,
+            "filmeId": 4,
+            "generoId": 7
+        },
+        {
+            "id": 8,
+            "filmeId": 4,
+            "generoId": 8
+        },
+        {
+            "id": 9,
+            "filmeId": 4,
+            "generoId": 1
+        },
+        {
+            "id": 10,
+            "filmeId": 5,
+            "generoId": 1
+        },
+        {
+            "id": 11,
+            "filmeId": 5,
+            "generoId": 2
+        },
+        {
+            "id": 12,
+            "filmeId": 6,
+            "generoId": 9
+        },
+        {
+            "id": 13,
+            "filmeId": 7,
+            "generoId": 1
+        },
+        {
+            "id": 14,
+            "filmeId": 7,
+            "generoId": 2
+        },
+        {
+            "id": 15,
+            "filmeId": 7,
+            "generoId": 3
+        },
+        {
+            "id": 16,
+            "filmeId": 8,
+            "generoId": 3
+        },
+        {
+            "id": 17,
+            "filmeId": 8,
+            "generoId": 9
+        },
+        {
+            "id": 18,
+            "filmeId": 9,
+            "generoId": 1
+        },
+        {
+            "id": 19,
+            "filmeId": 9,
+            "generoId": 2
+        },
+        {
+            "id": 20,
+            "filmeId": 10,
+            "generoId": 6
+        },
+        {
+            "id": 21,
+            "filmeId": 11,
+            "generoId": 1
+        },
+        {
+            "id": 22,
+            "filmeId": 11,
+            "generoId": 3
+        },
+        {
+            "id": 22,
+            "filmeId": 12,
+            "generoId": 2
+        },
+        {
+            "id": 23,
+            "filmeId": 13,
+            "generoId": 1
+        },
+        {
+            "id": 24,
+            "filmeId": 13,
+            "generoId": 2
+        },
+        {
+            "id": 24,
+            "filmeId": 14,
+            "generoId": 8
+        },
+        {
+            "id": 25,
+            "filmeId": 14,
+            "generoId": 5
+        },
+        {
+            "id": 26,
+            "filmeId": 14,
+            "generoId": 3
+        },
+        {
+            "id": 27,
+            "filmeId": 15,
+            "generoId": 3
+        }
+    ]
+}

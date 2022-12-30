@@ -8,7 +8,7 @@
             "anoLancamento": 2020,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "Stella Hopkins",
+            "direcao": "Stella Hopkins",
             "tamanho": 800
         },
         {
@@ -19,7 +19,7 @@
             "anoLancamento": 1985,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": " Joe Dante",
+            "direcao": " Joe Dante",
             "tamanho": 1170
         },
         {
@@ -30,7 +30,7 @@
             "anoLancamento": 2006,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "John R. Leonetti",
+            "direcao": "John R. Leonetti",
             "tamanho": 800
         },
         {
@@ -41,7 +41,7 @@
             "anoLancamento": 2013,
             "legenda": "Português",
             "idioma": "Português/Filipino",
-            "Direção": "Erik Matti",
+            "direcao": "Erik Matti",
             "tamanho": 1170
         },
         {
@@ -52,7 +52,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "Matthew Warchus",
+            "direcao": "Matthew Warchus",
             "tamanho": 1180
         },
         {
@@ -63,7 +63,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "Don Hall",
+            "direcao": "Don Hall",
             "tamanho": 900
         },
         {
@@ -74,7 +74,7 @@
             "anoLancamento": 2019,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "Jake Helgren",
+            "direcao": "Jake Helgren",
             "tamanho": 800
         },
         {
@@ -85,7 +85,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "Viktor Glukhushin",
+            "direcao": "Viktor Glukhushin",
             "tamanho": 800
         },
         {
@@ -96,7 +96,7 @@
             "anoLancamento": 1987,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "John Hughes",
+            "direcao": "John Hughes",
             "tamanho": 800
         },
         {
@@ -107,7 +107,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "Scott Mann",
+            "direcao": "Scott Mann",
             "tamanho": 900
         },
         {
@@ -118,7 +118,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Português/Inglês",
-            "Direção": "Edson Oda",
+            "direcao": "Edson Oda",
             "tamanho": 1170
         },
         {
@@ -129,7 +129,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Português/Espanhol",
-            "Direção": "Martín Cuervo",
+            "direcao": "Martín Cuervo",
             "tamanho": 800
         },
         {
@@ -140,7 +140,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Espanhol",
-            "Direção": "Alejandro G. Iñárritu",
+            "direcao": "Alejandro G. Iñárritu",
             "tamanho": 1170
         },
         {
@@ -151,7 +151,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Inglês",
-            "Direção": "James Cameron",
+            "direcao": "James Cameron",
             "tamanho": 1460
         },
         {
@@ -162,7 +162,7 @@
             "anoLancamento": 2022,
             "legenda": "Português",
             "idioma": "Inglês",
-            "Direção": "Ivan Sen",
+            "direcao": "Ivan Sen",
             "tamanho": 900
         }
     ],
@@ -202,153 +202,6 @@
         {
             "id": 9,
             "genero": "Animação"
-        }
-    ],
-    "filmeGeneros": [
-        {
-            "id": 1,
-            "filmeId": 1,
-            "generoId": 1
-        },
-        {
-            "id": 2,
-            "filmeId": 2,
-            "generoId": 2
-        },
-        {
-            "id": 3,
-            "filmeId": 2,
-            "generoId": 3
-        },
-        {
-            "id": 4,
-            "filmeId": 2,
-            "generoId": 4
-        },
-        {
-            "id": 5,
-            "filmeId": 2,
-            "generoId": 5
-        },
-        {
-            "id": 6,
-            "filmeId": 3,
-            "generoId": 6
-        },
-        {
-            "id": 7,
-            "filmeId": 4,
-            "generoId": 7
-        },
-        {
-            "id": 8,
-            "filmeId": 4,
-            "generoId": 8
-        },
-        {
-            "id": 9,
-            "filmeId": 4,
-            "generoId": 1
-        },
-        {
-            "id": 10,
-            "filmeId": 5,
-            "generoId": 1
-        },
-        {
-            "id": 11,
-            "filmeId": 5,
-            "generoId": 2
-        },
-        {
-            "id": 12,
-            "filmeId": 6,
-            "generoId": 9
-        },
-        {
-            "id": 13,
-            "filmeId": 7,
-            "generoId": 1
-        },
-        {
-            "id": 14,
-            "filmeId": 7,
-            "generoId": 2
-        },
-        {
-            "id": 15,
-            "filmeId": 7,
-            "generoId": 3
-        },
-        {
-            "id": 16,
-            "filmeId": 8,
-            "generoId": 3
-        },
-        {
-            "id": 17,
-            "filmeId": 8,
-            "generoId": 9
-        },
-        {
-            "id": 18,
-            "filmeId": 9,
-            "generoId": 1
-        },
-        {
-            "id": 19,
-            "filmeId": 9,
-            "generoId": 2
-        },
-        {
-            "id": 20,
-            "filmeId": 10,
-            "generoId": 6
-        },
-        {
-            "id": 21,
-            "filmeId": 11,
-            "generoId": 1
-        },
-        {
-            "id": 22,
-            "filmeId": 11,
-            "generoId": 3
-        },
-        {
-            "id": 22,
-            "filmeId": 12,
-            "generoId": 2
-        },
-        {
-            "id": 23,
-            "filmeId": 13,
-            "generoId": 1
-        },
-        {
-            "id": 24,
-            "filmeId": 13,
-            "generoId": 2
-        },
-        {
-            "id": 24,
-            "filmeId": 14,
-            "generoId": 8
-        },
-        {
-            "id": 25,
-            "filmeId": 14,
-            "generoId": 5
-        },
-        {
-            "id": 26,
-            "filmeId": 14,
-            "generoId": 3
-        },
-        {
-            "id": 27,
-            "filmeId": 15,
-            "generoId": 3
         }
     ]
 }

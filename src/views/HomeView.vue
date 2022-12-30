@@ -1,6 +1,8 @@
 <template>
-  <NavbarMainLayout></NavbarMainLayout>
-    <router-view name="navbar"></router-view>
+  <div>
+    <NavbarMainLayout />
+    <router-view></router-view>
+  </div>
 </template>
 
 <script>
@@ -14,3 +16,5 @@ export default {
   }
 }
 </script>
+
+

@@ -1,15 +1,15 @@
 <template>
-    <nav class="navbar">
+    <nav class="navbar navbar-expand-lg">
         <div class="container-fluid px-5 text-white">
             <div class="row d-flex justify-content-between w-100">
-                <div class="col-3 d-flex align-items-center">
+                <div class="col-lg-3 d-flex align-items-center">
                     <a class="navbar-brand fw-bold text-white" href="#"><img
                             src="https://static.filmelier.com/dist/images/logo-filmelier.webp?v=1.29.12"></a>
                 </div>
-                <div class="col-6 d-flex align-items-center">
-                    <ul class="d-flex navbar-collapse justify-content-around m-0 p-3">
+                <div class="col-lg-6 d-flex align-items-center p-0">
+                    <ul class="d-flex navbar-collapse justify-content-around p-3 m-0">
                         <li class="nav-item">
-                            <a class="nav-link fw-bold" href="#">Filmes</a>
+                            <router-link to="/filmes" class="nav-link fw-bold" href="#">Filmes</router-link>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link fw-bold" href="#">Listas</a>
@@ -18,12 +18,12 @@
                             <a class="nav-link fw-bold" href="#">Notícias</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link fw-bold btn btn-outline-light py-2 px-4 rounded-3" href="#"><i
-                                    class="bi bi-star me-2"></i> Lançamentos</a>
+                            <a class="nav-link btn fw-bold py-2 px-4 rounded-3" href="#"><i
+                                    class="bi bi-star me-2" id="buttonLancamentos"></i> Lançamentos</a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-3 d-flex align-items-center justify-content-end">
+                <div class="col-lg-3 d-flex align-items-center justify-content-end">
                     <div class="dropdown me-3">
                         <button class="btn btn-transparent text-white dropdown-toggle fw-bold" type="button"
                             data-bs-toggle="dropdown" aria-expanded="false">
@@ -65,4 +65,5 @@ export default {
 .navbar ul li a {
     font-size: 18px;
 }
+
 </style>

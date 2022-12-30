@@ -24,7 +24,7 @@ No **Projeto Filmes online** foi possível entender um pouco mais sobre o [Vue R
 ## Baixar projeto
 
 ```
-git clone https://github.com/matheusdesouzab/Projeto-Formulario.git
+git clone https://github.com/matheusdesouzab/Filmelier.git
 ```
 
 ## Baixa Dependências

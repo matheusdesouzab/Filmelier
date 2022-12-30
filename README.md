@@ -37,5 +37,12 @@ npm install
 npm run serve
 ```
 
-Se tudo ocorrer bem, a aplicação estara disponível em [localhost:8080](http://localhost:8080)
+### Iniciar o JSON-SERVER
+```
+json-server --watch json-server.json
+```
+
+> Lembrando que o arquivo está dentro de `src`
+
+Se tudo ocorrer bem, a aplicação estará disponível em [localhost:8080](http://localhost:8080)
 
